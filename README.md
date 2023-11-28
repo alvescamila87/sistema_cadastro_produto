@@ -21,7 +21,7 @@ utilizamos as user stories e cenários de testes para apoiar no desenvolvimento
 ![image](https://github.com/alvescamila87/sistema_cadastro_produto/assets/116912821/c950c5bb-b1d0-46f4-8a86-e3d63f1ea455)
 
 ### QA: 
-utilizamos o app ScreenToGIF para gravar gifs dos testes quando 100% testados e desenvolvimentos*
+utilizamos o app ScreenToGIF para gravar gifs dos testes dos itens quando 100% testados e desenvolvidos
 
 [GIF da Função Login](https://github.com/alvescamila87/portugol/blob/main/SENAI/5_SA_CADASTRO_PRODUTO/funcao01_login_test.gif)
 
@@ -33,8 +33,9 @@ utilizamos o app ScreenToGIF para gravar gifs dos testes quando 100% testados e 
 ## Visualizar todos os commits e histórico do desenvolvimento
 Acessar [Histórico do desenvolvimento](https://github.com/alvescamila87/portugol/tree/main/SENAI/5_SA_CADASTRO_PRODUTO)
 
-## Autor
-Camila Alves (https://www.linkedin.com/in/alvescamila87/)
+## Autores
+* [Camila Alves](https://www.linkedin.com/in/alvescamila87/)
+* [João Carlos Emidio](https://github.com/emidiojoao)
 
 
 
