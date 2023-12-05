@@ -30,6 +30,9 @@ utilizamos o app ScreenToGIF para gravar gifs dos testes dos itens quando 100% t
 ## Fluxograma
 ![fluxo-SA](https://github.com/alvescamila87/sistema_cadastro_produto/assets/116912821/71141a67-28c1-4d0b-be82-d563664d03e2)
 
+## Visualizar o mesmo projeto desenvolvimento em Java
+Acessar o projeto com (Desenvolvimento em Java)[https://github.com/alvescamila87/product-registration-system-java]
+
 ## Visualizar todos os commits e histórico do desenvolvimento
 Acessar [Histórico do desenvolvimento](https://github.com/alvescamila87/portugol/tree/main/SENAI/5_SA_CADASTRO_PRODUTO)
 
